@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [x] User stays logged in across restarts. (1pt)
 - [x] User can log out. (1pt)
 - [x] User can view comments on a post. (3pts)
-- [partial] User can add a new comment. (5pts) - Could not get help on discussion system :(
+- [x] User can add a new comment. (5pts) 
 
 The following **bonus** features are implemented:
 
@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Instagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ParstagramPart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
